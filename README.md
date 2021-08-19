@@ -1,4 +1,4 @@
-# multi_modal_learning
+# Multi-modal Multilingual Learning
 A literature repo for multi-modal machine learning
 
 ## Contrastive Learning
